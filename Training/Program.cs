@@ -1,10 +1,17 @@
-﻿namespace Training
+﻿void MyFirstMethod()
+
+{ 
+    // do something
+}
+
+void MySecondMethod()
+
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, C# Academy, One more modification");
-        }
-    }
+    // do something
+}
+
+void MyThirdMethod()
+
+{
+    // do something
 }
